@@ -127,8 +127,9 @@
   color: #4c5667;
   font-family:Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
 }
+.navbar-collapse{ }
 .navbar-nav {
-  margin: 0px;
+  margin: 0px -15px;
 }
 
 .button-menu-mobile {
@@ -142,11 +143,6 @@
 .button-menu-mobile:hover {
   color: #ffffff;
 }
-.navbar-collapse{ margin:-6px -15px 0;}
-
-
-
-
 
 
 .p-0 {
