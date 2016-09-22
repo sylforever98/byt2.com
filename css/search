@@ -1,0 +1,1 @@
+/**/ jQuery111101708108921202689_1473389119662({"meta": {"error_type": "OAuthPermissionsException", "code": 400, "error_message": "This request requires scope=public_content, but this access token is not authorized with this scope. The user must re-authorize your application with scope=public_content to be granted this permissions."}})
